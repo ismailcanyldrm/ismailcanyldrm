@@ -11,7 +11,7 @@
 
 - 🔭 I'm currently working on **C# Programing**
 - 🌱 I'm currently learning **Full Stack Development.**
-- 💬 Ask Me About Anything [here](https://github.com/ismailcanyldrm/ismailcanyldrm/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 Ask Me About Anything [here](https://github.com/ismailcanyldrm/ismailcanyldrm/issues/2) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
 <br/>
 <br/>
