@@ -47,3 +47,11 @@
 <code><img height="40" width="40" src="https://pnggrid.com/wp-content/uploads/2021/05/Adobe-Illustrator-Logo-1024x998.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/512px-Adobe_Premiere_Pro_Logo.svg.png"></code>
 
+  <h1 align="center"> 📈GitHub Status</h1>
+<p align="center">
+<a href="https://github.com/ismailcanyldrm">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ismailcanyldrm&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailcanyldrm&layout=compact&langs_count=16&theme=react"/>
+ </div>
+</p>
