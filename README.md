@@ -52,5 +52,6 @@
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailcanyldrm&layout=compact&langs_count=16&theme=react"/>
 
+![Snake animation](https://svgshare.com/i/fRJ.svg)
 </div>
 </p>
